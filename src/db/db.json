@@ -1,0 +1,117 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Inna Ivanovna Kravchuk",
+      "img": "https://mc-mk.com.ua/files/news/rm_rus/krav.jpg",
+      "title": "Candidate of Medical Sciences, Gynecologist. Gynecologist endocrinologist of the highest category.",
+      "experience": "21 years"
+    },
+    {
+      "id": 2,
+      "name": "Melnik Alexander Borisov",
+      "img": "https://mc-mk.com.ua/files/news/rm_rus/chih.jpg",
+      "title": "Doctor Proctologist, Proctologist - Surgeon.",
+      "experience": "13 years"
+    },
+    {
+      "id": 3,
+      "name": "Lysenko Nikolai Nikolaevich",
+      "img": "https://mc-mk.com.ua/files/news/rm_rus/lisen.jpg",
+      "title": "Urologist, Surgeon, Sexologist, Doctor of the highest category, employee of Ukraine Institute of Urology NAMS.",
+      "experience": "22 years"
+    },
+    {
+      "id": 4,
+      "name": "Sviridova Oksana Borisovna",
+      "img": "https://mc-mk.com.ua/files/news/rm_rus/p-8-400x400.jpg",
+      "title": "Gastroenterologist, nutritionist, family doctor. Ultrasound doctor.",
+      "experience": "15 years"
+    },
+    {
+      "id": 5,
+      "name": "Kudla Irina Leonidovna",
+      "img": "https://mc-mk.com.ua/files/news/rm_rus/kud.jpg",
+      "title": "Cardiologist of the highest category,doctor functional diagnostics.",
+      "experience": "12 years"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "date": "15.01.2021",
+      "name": "Gaidabura D.M, 22 years.",
+      "comment": "I express my deep gratitude to the staff of the urological department of the Regional Clinical Hospital for the sensitive and attentive attitude and high-quality treatment and simply for the human attitude. Please accept my most sincere wishes for happiness and well-being. May God keep you! With sincere respect and gratitude to you, Semenyuk I."
+    },
+    {
+      "id": 2,
+      "date": "2.02.2021",
+      "name": "Shestakov S.V, 43 years.",
+      "comment": "I want to express my gratitude to the oncology department of the KDP.On the eve of the New Year holidays, I want to wish them happiness, health and all the best to you and your family and friends!!! Fewer patients!"
+    },
+    {
+      "id": 3,
+      "date": "13.04.2021",
+      "name": "Avramov V.F, 33 years.",
+      "comment": "I want to express my deep gratitude for the management of the Department of Vascular Surgery of the SOKB Vadim Vladimirovich Franz, my great consumption Dmitry Sergeevich Lobanov and the entire staff of the department! Thank you for your help and patient care! You are true professionals who treat each patient with soul! From this experience becomes easier and the process of recovery goes faster! Happy New Year! subsequent success and prosperity of your department!"
+    },
+    {
+      "id": 4,
+      "date": "13.09.2021",
+      "name": "Mullabaev R.A, 30 years.",
+      "comment": "I would like to express my gratitude to Troyan Pavel Petrovich for the oncology department of the KDP, which uses oncology of the highest category, for his active participation in solving my problems, for his sincere and convincing desire to achieve results. A huge survey and extensive work experience allow us to have no doubts about the correctness of the diagnosis and treatment methods. Many thanks, health and success in your noble work. With all my heart I would like such specialists to observe gratitude not only from their patients, but also to be noted."
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "The most recent doctors and patients with stage I-IIA non-small cell lung cancer",
+      "date": "20.02.2022",
+      "comment": "Clinic Oberig takes part in a clinical examination, which provides that patients with non-small cell lung cancer I-IIA undergo free examination and treatment as part of a study of the effectiveness of stereotactic radiation therapy + the drug Pembrolizumab.Study title: Phase III, Randomized, Placebo-Controlled Safety Evaluation and Stereotactic Radiotherapy (SBRT) Clinical Trial Evaluated with or Without Pembrolizumab in Patients with Stage I or IIA Inoperable Non-Small Cell Lung Cancer (NSCLC).As part of the study, patients receive FREE OF CHARGE: inpatient and outpatient treatment, all necessary tests and analyses, all, necessary medicines, chemotherapy according to the treatment protocol, stereotactic irradiation of the tumor.For detailed information and referrals of patients, please call +38 044 521 03 46 or email o.silaieva@oberig.ua."
+    },
+    {
+      "id": 2,
+      "title": "Student online seminar.",
+      "date": "15.02.2021",
+      "comment": "We continue the cycle of student seminars on pathohistology with Anastasia Kovaleva, head of the pathohistological center of the Oberig clinic, and student interns of the Center.On October 13, an online seminar Prevention of colorectal carcinoma: early diagnosis of the onset of intestinal neoplasia. Part 1: endoscopic stage is being held.In preparation for the seminar, the interns are offered the assistance of Timofei Bukharin, a surgeon-endoscopist at the Oberig clinic."
+    },
+    {
+      "id": 3,
+      "title": "Student online seminar.",
+      "date": "1.02.2021",
+      "comment": "We continue the cycle of student seminars on pathohistology with Anastasia Kovaleva, head of the pathohistological center of the Oberig clinic, and student interns of the Center.On October 21, an online seminar was held Prevention of colorectal carcinoma: early diagnosis of the onset of intestinal neoplasia. Part 2: morphological stage.In preparation for the seminar, the interns are offered the assistance of Timofei Bukharin, a surgeon-endoscopist at the Oberig clinic."
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "img": "https://littleone.com/uploads/publication/6946/_840/5e43076a7a14d3.20913474.jpg",
+      "title": "Allergist",
+      "comment": "An allergist is a physician who specializes in the diagnosis and treatment of allergic diseases and immune-mediated channels."
+    },
+    {
+      "id": 2,
+      "img": "https://img.joomcdn.net/dd2b692fd5797d30f74420028a69db504df2c343_original.jpeg",
+      "title": "Gynecologist",
+      "comment": "A gynecologist is a doctor who studies the female reproductive system."
+    },
+    {
+      "id": 3,
+      "img": "https://alfamed.info/upload/userfiles/dermatolog-onkolog-peterburg-1024x683.jpg",
+      "title": "Dermatologist",
+      "comment": "A dermatologist is a doctor who pursues the goal and treatment of the skin and its appendages."
+    },
+    {
+      "id": 4,
+      "img": "https://mcgeneva.com.ua/wp-content/uploads/2017/03/Kardiolog-848x518.jpg",
+      "title": "Cardiologist",
+      "comment": "A cardiologist is one who diagnoses, treats and prevents diseases of the cardiovascular system."
+    },
+    {
+      "id": 5,
+      "img": "https://profmedical.com.ua/wp-content/uploads/2020/02/proktologiya-kiev.jpg",
+      "title": "Proctologist",
+      "comment": "A proctologist is a doctor who pursues the goal, treatment and prevention of diseases of the colon (rectum and colon), anus and pararectal area."
+    }
+  ]
+}

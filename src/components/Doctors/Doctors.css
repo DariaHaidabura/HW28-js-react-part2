@@ -1,0 +1,10 @@
+.doctor-cont {
+  display: flex;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-style: italic;
+  font-size: 1.1rem;
+}
+
+img {
+  width: 335px;
+}
