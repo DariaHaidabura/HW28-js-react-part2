@@ -8,7 +8,7 @@ function Events() {
 
   useEffect(() => {
     try {
-      fetch("http://localhost:3004/events")
+      fetch("http://localhost:3000/events")
         .then((response) => response.json())
         .then((data) => setEvents(data));
     } catch {

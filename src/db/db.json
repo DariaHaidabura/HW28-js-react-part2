@@ -113,5 +113,29 @@
       "title": "Proctologist",
       "comment": "A proctologist is a doctor who pursues the goal, treatment and prevention of diseases of the colon (rectum and colon), anus and pararectal area."
     }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Abc",
+      "status": true
+    },
+    {
+      "title": "123",
+      "status": false,
+      "id": 2
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "title": "Abc",
+      "status": true
+    },
+    {
+      "title": "123",
+      "status": false,
+      "id": 2
+    }
   ]
 }

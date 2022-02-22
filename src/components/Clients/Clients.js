@@ -8,7 +8,7 @@ function Clients() {
 
   useEffect(() => {
     try {
-      fetch("http://localhost:3004/clients")
+      fetch("http://localhost:3000/clients")
         .then((response) => response.json())
         .then((data) => setClients(data));
     } catch {

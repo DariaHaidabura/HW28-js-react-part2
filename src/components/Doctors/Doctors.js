@@ -8,7 +8,7 @@ function Doctors() {
 
   useEffect(() => {
     try {
-      fetch("http://localhost:3004/doctors")
+      fetch("http://localhost:3000/doctors")
         .then((response) => response.json())
         .then((data) => setDoctors(data));
     } catch {

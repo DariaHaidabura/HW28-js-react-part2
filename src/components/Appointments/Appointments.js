@@ -8,7 +8,7 @@ function Appointments() {
 
   useEffect(() => {
     try {
-      fetch("http://localhost:3004/appointments")
+      fetch("http://localhost:3000/appointments")
         .then((response) => response.json())
         .then((data) => setAppoint(data));
     } catch {
